@@ -8,7 +8,7 @@
 ### Utilisation 
 
 - cloner le projet:
-git clone 
+- git clone https://github.com/Abou-fatima/30-Days-Of-Python
 
 Exigence: 
 - avoir installé python
