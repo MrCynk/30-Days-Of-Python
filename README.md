@@ -14,3 +14,8 @@ Exigence:
 - avoir installé python
 - Lancer dans le terminal du projet
 python main.py
+
+
+## 🧪 Résultats des tests
+
+![Test du calculateur](resultat.png)
