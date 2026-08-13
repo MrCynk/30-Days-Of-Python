@@ -36,14 +36,13 @@ Seul le **dernier commit** reçu avant cette date et cette heure sera pris en co
 
 Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
-| Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-|---|---|---|---|
 | _Exemple_ Ama | ama_koffi23 | https://github.com/ama-koffi/zemidjan-calculator | https://github.com/ama-koffi/fcfa-simulator |
 | _Exemple_ Komi | komi.python | https://github.com/komi-dev/zemidjan-calculator | - |
 
 **Ligne Markdown brute à copier-coller (à adapter avec tes informations) :**
 
-```
+
+
 | Ton Prénom | ton_username_fata | https://github.com/ton-username/ton-projet | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) |
 ```
 
@@ -56,5 +55,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 <!-- Ajoute tes lignes ci-dessous, une par participant -->
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-|---|---|---|---|
+| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
