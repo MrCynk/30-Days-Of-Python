@@ -19,7 +19,9 @@ Seul le **dernier commit** reçu avant cette date et cette heure sera pris en co
 ---
 
 ## Marche à suivre
+I. Soumettre via [Google Form et faire un feedback](https://docs.google.com/forms/d/e/1FAIpQLSfKYpXJ_yanrirn36MV7Iz6T8BLEPw-mc2WGipsmIcoC3YHOw/viewform?usp=dialog)
 
+II. Faire la methode GitHub
 1. **Fork** ce dépôt (`python-togo/30-Days-Of-Python`) sur ton propre compte GitHub.
 2. **Crée ton projet** dans un dépôt GitHub personnel séparé (nom libre, ex. `zemidjan-calculator` ou `fcfa-currency-simulator`).
 3. Dans **ton** dépôt de projet, ajoute un fichier `README.md` qui explique :
