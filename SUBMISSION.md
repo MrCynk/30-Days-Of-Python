@@ -19,7 +19,9 @@ Seul le **dernier commit** reçu avant cette date et cette heure sera pris en co
 ---
 
 ## Marche à suivre
+I. Soumettre via [Google Form et faire un feedback](https://docs.google.com/forms/d/e/1FAIpQLSfKYpXJ_yanrirn36MV7Iz6T8BLEPw-mc2WGipsmIcoC3YHOw/viewform?usp=dialog)
 
+II. Faire la methode GitHub
 1. **Fork** ce dépôt (`python-togo/30-Days-Of-Python`) sur ton propre compte GitHub.
 2. **Crée ton projet** dans un dépôt GitHub personnel séparé (nom libre, ex. `zemidjan-calculator` ou `fcfa-currency-simulator`).
 3. Dans **ton** dépôt de projet, ajoute un fichier `README.md` qui explique :
@@ -55,5 +57,12 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 <!-- Ajoute tes lignes ci-dessous, une par participant -->
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
+|---|---|---|---|
+| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
+| Alpha Ousmane| alphadev | https://github.com/Abou-fatima/30-Days-Of-Python |-|
+| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
+| Abdou-Jabar | 0x589f9f74 | https://github.com/Abdou-Jabar/zemidjan-calculator | https://github.com/Abdou-Jabar/fcfa-currency-simulator |
+| Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
+|---|---|---|---|
+| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
