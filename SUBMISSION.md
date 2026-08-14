@@ -58,3 +58,4 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
 |---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
+| Sylvana | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
