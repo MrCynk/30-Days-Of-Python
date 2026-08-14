@@ -66,5 +66,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
 |---|---|---|---|
 | edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
-| Sylvana | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
+| Aurelia anani | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
 | edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
