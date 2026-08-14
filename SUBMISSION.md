@@ -38,14 +38,13 @@ II. Faire la methode GitHub
 
 Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
-| Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-|---|---|---|---|
 | _Exemple_ Ama | ama_koffi23 | https://github.com/ama-koffi/zemidjan-calculator | https://github.com/ama-koffi/fcfa-simulator |
 | _Exemple_ Komi | komi.python | https://github.com/komi-dev/zemidjan-calculator | - |
 
 **Ligne Markdown brute à copier-coller (à adapter avec tes informations) :**
 
-```
+
+
 | Ton Prénom | ton_username_fata | https://github.com/ton-username/ton-projet | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) |
 ```
 
@@ -58,6 +57,7 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 <!-- Ajoute tes lignes ci-dessous, une par participant -->
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
+| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 |---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 | Alpha Ousmane| alphadev | https://github.com/Abou-fatima/30-Days-Of-Python |-|
@@ -65,3 +65,4 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Abdou-Jabar | 0x589f9f74 | https://github.com/Abdou-Jabar/zemidjan-calculator | https://github.com/Abdou-Jabar/fcfa-currency-simulator |
 | Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
 |---|---|---|---|
+| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
