@@ -56,6 +56,7 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
 <!-- Ajoute tes lignes ci-dessous, une par participant -->
 
+
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 |---|---|---|---|
@@ -67,5 +68,6 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 |---|---|---|---|
 | edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
 | Alexandro | basileangelo | https://github.com/Alexis-dep/zemidjan-calculator | - |
+|HIHEAGLO Akossiwa Mawuto | akossiwa | https://github.com/mawutohiheaglo-ai/30-Days-Of-Python-HIHEAGLO-Akossiwa/tree/mawuto |-|
 | Aurelia anani | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
 | edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
