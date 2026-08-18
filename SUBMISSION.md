@@ -60,4 +60,4 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
 |---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
-| Emmanuel | emmanuel7911 | https://github.com/MK228-charles/zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
+| Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
