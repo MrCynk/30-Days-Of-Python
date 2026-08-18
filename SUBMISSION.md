@@ -58,16 +58,15 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 |---|---|---|---|
-| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 | Alpha Ousmane| alphadev | https://github.com/Abou-fatima/30-Days-Of-Python |-|
-| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 | Abdou-Jabar | 0x589f9f74 | https://github.com/Abdou-Jabar/zemidjan-calculator | https://github.com/Abdou-Jabar/fcfa-currency-simulator |
 | Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
-|---|---|---|---|
-| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
+| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2|
 | Alexandro | basileangelo | https://github.com/Alexis-dep/zemidjan-calculator | - |
 |HIHEAGLO Akossiwa Mawuto | akossiwa | https://github.com/mawutohiheaglo-ai/30-Days-Of-Python-HIHEAGLO-Akossiwa/tree/mawuto |-|
 | Aurelia anani | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
-| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2 (ou "-" si non réalisé) ||---|---|---|---|
+| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2|
+| Blessing Kebbie | kebbieblessing9 | https://github.com/Peace904/zemidjan-calculator | https://github.com/Peace904/fcfa-currency-simulator |
+|Edoh Jacques | edoh2 | https://github.com/jacques99e/zemidjan-calculator |-|
+
