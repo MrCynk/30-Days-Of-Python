@@ -66,7 +66,6 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Alexandro | basileangelo | https://github.com/Alexis-dep/zemidjan-calculator | - |
 |HIHEAGLO Akossiwa Mawuto | akossiwa | https://github.com/mawutohiheaglo-ai/30-Days-Of-Python-HIHEAGLO-Akossiwa/tree/mawuto |-|
 | Aurelia anani | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
-| edouarde| afi5992 | https://github.com/EUD-SOTOWOU/smart_estimator-taxi_zed.py/blob/main/README;md | https://github.com/ton-username/ton-projet-2|
 | Blessing Kebbie | kebbieblessing9 | https://github.com/Peace904/zemidjan-calculator | https://github.com/Peace904/fcfa-currency-simulator |
 |Edoh Jacques | edoh2 | https://github.com/jacques99e/zemidjan-calculator |-|
 
