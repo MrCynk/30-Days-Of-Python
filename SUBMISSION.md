@@ -69,3 +69,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Blessing Kebbie | kebbieblessing9 | https://github.com/Peace904/zemidjan-calculator | https://github.com/Peace904/fcfa-currency-simulator |
 |Edoh Jacques | edoh2 | https://github.com/jacques99e/zemidjan-calculator |-|
 |Kossivi Tinè | kossivi | https://github.com/tkossi3/PyConTogo2026_TaxiZedTrajetCalc.git | https://github.com/tkossi3/PyConTogo2026_SimilateurDeChangeFcfa.git |
+|Jédidja SROVI|legendb|https://github.com/Blackvelt/calculateur-de-trajet-par-moyen-de-transport|-|
+
