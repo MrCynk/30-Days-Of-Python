@@ -58,4 +58,4 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
 |---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
-| Manase | manase | https://github.com/MrCynk/Projet1_PyconTogo2026-Zemidjan-Taxi_Calculator | https://github.com/MrCynk/Simulateur_de_Change_FCFA |
+| Manase | manase | https://github.com/MrCynk/Projet1_PyconTogo2026-Zemidjan-Taxi_Calculator | https://github.com/MrCynk/Projet2_PyconTogo2026-Simulateur_de_Change_FCFA |
