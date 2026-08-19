@@ -68,5 +68,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Aurelia anani | aurelia7709 | https://github.com/aureliaanani8-glitch/Calculateur-Trajet | - |
 | Blessing Kebbie | kebbieblessing9 | https://github.com/Peace904/zemidjan-calculator | https://github.com/Peace904/fcfa-currency-simulator |
 |Edoh Jacques | edoh2 | https://github.com/jacques99e/zemidjan-calculator |-|
-|Jédidja SROVI|legendb|https://github.com/Blackvelt/calculateur-de-trajet-par-moyen-de-transport|-|
+|Jédidja SROVI|legendb|https://github.com/Blackvelt/calculateur-de-trajet-par-moyen-de-transport|https://github.com/Blackvelt/projet2-simulateur_de_change_FCFA_Devises|
 
