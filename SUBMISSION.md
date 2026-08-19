@@ -58,7 +58,6 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-| Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
 |---|---|---|---|
 | Alpha Ousmane| alphadev | https://github.com/Abou-fatima/30-Days-Of-Python |-|
 | Abdou-Jabar | 0x589f9f74 | https://github.com/Abdou-Jabar/zemidjan-calculator | https://github.com/Abdou-Jabar/fcfa-currency-simulator |
