@@ -72,4 +72,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Sèdonou Théophile | theophiledounon | https://github.com/theophiledounon-dotcom/zemidjan-calculator | - |
 |Komlan Josue | komlan | https://github.com/lepoly-create/Python-Togo-2026-Projects/tree/main/Projet1-Calculator-Traject | https://github.com/lepoly-create/Python-Togo-2026-Projects/tree/main/Projet2-Simulator-Echange |
 |Kossivi Tinè | kossivi | https://github.com/tkossi3/PyConTogo2026_TaxiZedTrajetCalc.git | https://github.com/tkossi3/PyConTogo2026_SimilateurDeChangeFcfa.git |
+| Koudjovi Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
 
