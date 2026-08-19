@@ -58,8 +58,8 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
 
 | Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
-|---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
+|---|---|---|---|
 | Alpha Ousmane| alphadev | https://github.com/Abou-fatima/30-Days-Of-Python |-|
 | Abdou-Jabar | 0x589f9f74 | https://github.com/Abdou-Jabar/zemidjan-calculator | https://github.com/Abdou-Jabar/fcfa-currency-simulator |
 | Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
@@ -73,5 +73,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 |Komlan Josue | komlan | https://github.com/lepoly-create/Python-Togo-2026-Projects/tree/main/Projet1-Calculator-Traject | https://github.com/lepoly-create/Python-Togo-2026-Projects/tree/main/Projet2-Simulator-Echange |
 |Kossivi Tinè | kossivi | https://github.com/tkossi3/PyConTogo2026_TaxiZedTrajetCalc.git | https://github.com/tkossi3/PyConTogo2026_SimilateurDeChangeFcfa.git |
 |Jédidja SROVI|legendb|https://github.com/Blackvelt/calculateur-de-trajet-par-moyen-de-transport|-|
-| Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
+| Koudjovi Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
 
